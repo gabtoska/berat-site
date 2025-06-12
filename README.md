@@ -32,7 +32,7 @@ berat-site/ ├── index.html ├── beratstyle.css ├── beratiscript
 ## 📬 Author
 
 Built with love and code by **[Gabriel T.](https://github.com/gabtoska)**  
-📧 endri.hoxha99@gmail.com
+📧 gabriel.toska@gmail.com
 
 ---
 
