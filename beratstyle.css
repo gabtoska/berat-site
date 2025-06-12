@@ -69,7 +69,7 @@ nav ul li a {
 }
 
 header {
-	position:sticky;
+	position:static;
   display: flex;
   align-items: center;
 
@@ -100,9 +100,8 @@ h1 {
   text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
 }
 nav {
-  position: sticky;
-  top: 0;
-  z-index: 1000;
+  position: static;
+
   background-color: #a0873b;
   display: flex;
   align-items: center;
